@@ -2,8 +2,8 @@
 C++ implementation of decision tree algorithm. 
 
 # How to run 
-**0.** Put all project files in same folder.
-**1.** Use ```make``` command to compile.  
+**0.** Put all project files in same folder.<br/>
+**1.** Use ```make``` command to compile.  <br/>
 **2.** Use ```./decTree``` command to run. 
 
 # Important Notes
