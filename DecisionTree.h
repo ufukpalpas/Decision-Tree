@@ -1,8 +1,5 @@
 /**
 * Author : Ufuk Palpas
-* ID: 21702958
-* Section : 3
-* Assignment : 2
 */
 #ifndef __DECISION_TREE_H
 #define __DECISION_TREE_H
